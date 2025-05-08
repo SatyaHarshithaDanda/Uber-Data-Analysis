@@ -52,5 +52,5 @@ The dataset typically includes:
 2. Install the necessary Python libraries:
    ```bash
    pip install pandas numpy matplotlib seaborn plotly
-3.Launch Uber_Data_Analysis.ipynb using Jupyter Notebook.
+3. Launch Uber_Data_Analysis.ipynb using Jupyter Notebook.
 4. Follow the step-by-step analysis and view the visualizations inline.
